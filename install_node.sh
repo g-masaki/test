@@ -13,7 +13,4 @@ sudo apt-get purge -y nodejs npm
 # restart shell
 exec $SHELL -l
 
-#  
-node -v
-
 #https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04-ja
